@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Python cache (if you ever add scripts)
+__pycache__/
+*.pyc
+
+# Node (if you ever add tooling)
+node_modules/
+
+# Terraform (if you expand the project later)
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Logs
+*.log
+
+# Images cache (optional)
+*.tmp
